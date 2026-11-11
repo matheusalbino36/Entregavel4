@@ -1,4 +1,4 @@
-# Entregável 5 — Algoritmos fundamentais
+# Entregável 4 — Algoritmos fundamentais
 
 O projeto contém implementações dos algoritmos fundamentais em Java e JavaScript.
 As funções JavaScript podem ser importadas para testes unitários e os scripts
