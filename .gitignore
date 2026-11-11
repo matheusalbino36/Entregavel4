@@ -1,0 +1,6 @@
+bin/
+node_modules/
+*.class
+.vscode/
+.DS_Store
+*.log

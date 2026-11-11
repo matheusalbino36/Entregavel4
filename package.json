@@ -1,0 +1,12 @@
+{
+  "name": "entregavel5-algoritmos-fundamentais",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Algoritmos fundamentais em JavaScript com testes unitários em Jest.",
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
